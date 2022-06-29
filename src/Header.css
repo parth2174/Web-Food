@@ -1,0 +1,68 @@
+header{
+    height:60px;
+    background-color: rgb(53, 4, 102) 
+}
+
+#icon{
+    float:left;
+    color: white
+}
+
+#social{
+    float: right;
+    margin-right: 5%;
+    margin-top: 1%;
+}
+
+.slogo{
+    height: 50px;
+    width: 50px;
+}
+.btnclass{
+    margin-top: 1%;
+}
+.btnlogin{
+    display:inline-block
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*header{
+    height: 70px;
+    
+    position: absolute;
+    width: 100%;
+    background: none;
+    
+  
+}   
+header > h1{
+    color: white;
+}
+.navbar-right{
+    margin-top: -12%;
+    margin-right: 5%;
+    font-size: 20px;
+    
+}
+.ln{
+    color: #ffffff;
+}
+.out{
+    color: #ffffff;
+}
+*/
